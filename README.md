@@ -19,7 +19,7 @@ Perform customer segmentation using K-Means clustering.
 
 ---
 
-## 📂 Files to Include
+## 📂 Files
 - `Clustering.ipynb` – notebook file
 - `Mall_Customers.csv` – dataset
 - `README.md`
